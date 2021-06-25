@@ -5,6 +5,9 @@
 This is a deep learning model to detect violence from videos. This repo contains the python notebook code for the impletementation of the 'CNN-BiLSTM for Violence Detection' research paper.
 The pdf of the said paper is also available on the repository. 
 
+The video tutorial of the entire model creatation can be found here
+- https://www.youtube.com/watch?v=az9xFkqE9eY&list=PL7BhjdrBLoen-b4Sclo_LSS4z2SB-JUmU
+
 ## Procedure
 
 The entire paper impletemation is divided into 3 main steps. 
